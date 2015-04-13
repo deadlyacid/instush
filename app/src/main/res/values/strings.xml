@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Instush</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="CLIENT_ID">379d744556c743c090c8a2014779f59f</string>
+    <string name="CLIENT_SECRET">fd6ec75e44054da1a5088ad2d72f2253</string>
+    <string name="CALLBACK_URL">instagram://connect</string>
+
+
+</resources>
